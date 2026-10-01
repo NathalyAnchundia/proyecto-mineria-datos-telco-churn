@@ -41,8 +41,9 @@ Características principales:
   * `0`: cliente que no abandona.
   * `1`: cliente que abandona.
 
-La fuente del dataset es IBM Sample Data Sets.
+La fuente del dataset corresponde a IBM Sample Data Sets. El conjunto de datos se encuentra disponible en Kaggle como "Telco Customer Churn":
 
+https://www.kaggle.com/blastchar/telco-customer-churn
 ## 5. Preprocesamiento
 
 Durante el proyecto se realizaron las siguientes actividades:
@@ -129,12 +130,11 @@ También se calcularon las matrices de confusión para cada modelo con el propó
 
 ## 11. Estructura del proyecto
 
-```text
 proyecto-mineria-datos-telco-churn/
 │
 ├── proyecto_mineria_datos.ipynb
+├── Telco-Customer-Churn.csv
 └── README.md
-```
 
 ## 12. Ejecución
 
